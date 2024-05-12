@@ -37,6 +37,7 @@
 + Practice and complete assignment Java OOP projects in a university lab.
 
 ## 📸 How it looks
+<img width="600" src="" />
 
 
 
