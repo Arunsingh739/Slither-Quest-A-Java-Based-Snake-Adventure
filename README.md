@@ -37,7 +37,7 @@
 + Practice and complete assignment Java OOP projects in a university lab.
 
 ## 📸 How it looks
-<img width="600" src="" />
+<img width="600" src="https://github.com/Arunsingh739/snake-game/blob/main/snake.png" />
 
 
 
